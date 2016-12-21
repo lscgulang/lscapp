@@ -6,3 +6,5 @@
      * NewPhotoNotification静态实例
      */
     private static NewUserNotification sNewUserNotification;
+
+    //lsc

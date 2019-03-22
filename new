@@ -1,0 +1,23 @@
+/**
+     * 上下文
+     */
+    private Context mContext;
+    /**
+     * NewPhotoNotification静态实例
+     */
+    private static NewUserNotification sNewUserNotification;
+
+    //lsc
+    //lsc1
+    //lsc2
+    //lsc3
+    //lsc4
+    //lsc5
+    //lsc6
+    //lsc8
+    //lsc100
+    //lsc14
+    //lsc master_1
+    //lsc rebase_1
+    //lsc_new master2
+    //lsc_new rebase2
